@@ -14,4 +14,9 @@ public class JedisTest {
         System.out.println(ping);
     }
 
+    @Test
+    public void test2(){
+        System.out.println("test branch hotfix");
+    }
+
 }
